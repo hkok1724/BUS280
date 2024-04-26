@@ -1,0 +1,156 @@
+﻿Breed,Life Expectancy (years),Height,Weight,Group,Energy Level,Barking Tendencies,Training Needs,Good for Small Homes
+Affenpinscher,9.3,10.25,8.5,Toy,3,2,4,5
+Afghan Hound,11.1,26,55,Hound,,,,
+Airedale Terrier,12,23,60,Terrier,4,3,4,2
+Akita,11.4,26,100,Working,3,2,4,3
+Alaskan Malamute,11.3,24,80,Working,4,4,4,1
+American Cocker Spaniel,13.3,14.5,25,Sporting,3,4,3,5
+American Eskimo Dog,11.3,14,6-35,Non-Sporting,4,5,4,3
+American Staffordshire Terrier,12.5,18,55,Terrier,4,3,4,2
+Anatolian Shepherd,10.1,28,115,Working,3,3,5,1
+Australian Cattle Dog,14,18.5,42.5,Herding,5,4,4,1
+Australian Shepherd,13.7,20.5,52.5,Herding,5,5,5,3
+Basenji,12.1,16.5,23,Hound,5,1,4,3
+Basset Hound*,12.5,15,52.5,Hound,2,5,3,3
+Beagle*,12.5,14,25,Hound,4,5,3,3
+Bearded Collie,13.9,21,50,Herding,4,3,4,3
+Bedlington Terrier,13.7,16.3,20,Terrier,3,4,3,4
+Belgian Malinois,12,24,60,Herding,5,3,5,1
+Belgian Tervuren,13.8,24,60,Herding,,,,
+Bernese Mountain Dog,10.1,25.3,92.5,Working,3,3,4,2
+Bichon Frise,12.5,10.5,15,Non-Sporting,3,3,3,5
+Black Russian Terrier,10.9,28,105,Working,,,,
+Bloodhound,9.3,25,95,Hound,4,5,3,1
+Bolognese,14.9,11,8,FSS,2,3,3,5
+Border Collie,13.1,20,42.5,Herding,5,3,5,2
+Border Terrier,14.2,13.5,13.5,Terrier,3,3,3,5
+Borzoi*,12,27,82.5,Hound,4,2,3,2
+Boston Terrier,11.8,11,18.5,Non-Sporting,3,4,3,5
+Bouvier des Flandres,11.3,25.5,90,Herding,3,4,4,1
+Boxer*,11.3,23.3,72.5,Working,4,3,4,2
+Bracco Italiano,13.8,24,72.5,Sporting,,,,
+Briard,12.6,24.5,77.5,Herding,5,3,4,3
+Brittany,11.1,19,35,Sporting,5,3,3,2
+Brussels Griffon,13.3,8.5,9,Toy,3,3,3,5
+Bull Terrier,12,21.5,60,Terrier,4,3,4,3
+Bulldog,9.8,14.5,45,Non-Sporting,2,2,3,5
+Bullmastiff,10.2,25.5,115,Working,3,3,4,2
+Cairn Terrier,14,9.8,13.5,Terrier,4,5,4,4
+Canaan Dog,12,21.5,45,Herding,,,,
+Cane Corso*,8.1,25.5,99,Working,4,3,5,1
+Cardigan Welsh Corgi,13.1,11.5,31.5,Herding,3,4,4,4
+Caucasian Shepherd Dog,5.4,26.5,134.5,FSS,,,,
+Cavalier King Charles Spaniel,11.8,12.5,15.5,Toy,3,3,3,5
+Chesapeake Bay Retriever,11.6,23.5,67.5,Sporting,5,4,4,1
+Chihuahua,11.8,6.5,6,Toy,3,5,4,5
+Chinese Crested,13.4,12,10,Toy,3,3,3,5
+Chinese Shar-Pei,10.6,19,52.5,Non-Sporting,4,2,4,3
+Chow Chow,12.1,18.5,57.5,Non-Sporting,3,3,5,2
+Clumber Spaniel,12.3,18.5,70,Sporting,3,3,3,2
+Collie,13.3,24,62.5,Herding,4,5,3,3
+Coton de Tulear,14.2,10,11.5,Non-Sporting,3,3,3,5
+Curly-Coated Retriever,12.2,25,77.5,Sporting,,,,
+Dachshund*,13.2,8.5,24,Hound,3,5,3,5
+Dalmatian,13.2,21.5,57.5,Non-Sporting,5,3,4,2
+Dandie Dinmont Terrier,12.8,9.5,21,Terrier,,,,
+Doberman Pinscher,11.2,26,80,Working,4,3,4,2
+Dogue de Bordeaux*,11.1,25,104.5,Working,2,2,5,1
+English Cocker Spaniel,13.3,16,30,Sporting,3,3,3,4
+English Setter,13.1,25,62.5,Sporting,5,4,4,2
+English Springer Spaniel,13.5,19.5,45,Sporting,5,3,4,2
+Field Spaniel,13.1,17.5,42.5,Sporting,,,,
+Finnish Lapphund,13.8,18.5,43,Herding,,,,
+Flat-Coated Retriever,11.7,23.3,65,Sporting,5,3,4,1
+Foxhound,13,24,67.5,Hound,5,5,4,1
+French Bulldog*,9.8,12,28,Non-Sporting,2,2,3,5
+German Shepherd Dog,11.3,24,70,Herding,4,4,5,2
+German Shorthaired Pointer,13.4,23,57.5,Sporting,5,3,4,1
+German Spitz Mittel*,14,14,30,FSS,,,,
+German Wirehaired Pointer,13,24,60,Sporting,5,3,3,1
+Giant Schnauzer,12.1,25.5,70,Working,4,4,4,1
+Glen of Imaal Terrier,12.1,13.3,36,Terrier,,,,
+Golden Retriever,13.2,22.8,65,Sporting,4,3,3,2
+Gordon Setter,12.4,25,62.5,Sporting,5,3,3,2
+Great Dane,10.6,30,142.5,Working,3,2,3,3
+Great Pyrenees*,10.9,28.5,92.5,Working,3,4,4,2
+Greyhound,11.5,28.5,65,Hound,3,2,3,3
+Havanese,14.5,10,10,Toy,3,3,3,5
+Irish Setter,12.9,26,65,Sporting,5,3,3,2
+Irish Terrier,13.5,18,26,Terrier,4,4,4,3
+Irish Water Spaniel,10.8,22.5,56.5,Sporting,5,2,3,2
+Irish Wolfhound,9.9,31,112.5,Hound,3,2,4,1
+Italian Greyhound,14,14,10.5,Toy,3,3,3,4
+Jack Russell Terrier*,13.3,12,13,Terrier,5,5,4,2
+Japanese Chin,12.5,9.5,9,Toy,3,2,3,5
+Japanese Spitz,13,13.5,17.5,FSS,,,,
+Keeshond,12.3,17.5,40,Non-Sporting,3,5,3,3
+Kelpie,12,21,44,FSS,,,,
+Kerry Blue Terrier*,12.4,18.5,36.5,Terrier,4,3,4,3
+Labrador Retriever,13.1,23,67.5,Sporting,5,3,3,5
+Lakeland Terrier*,14.2,14.8,17,Terrier,3,3,3,4
+Lancashire Heeler,15.4,11,13,Herding,,,,
+Large Munsterlander,14.1,24.8,60,FSS,,,,
+Leonberger,10,28.5,130,Working,4,3,4,1
+Lhasa Apso*,14,10.5,15,Non-Sporting,3,4,3,5
+Lowchen,13.9,13,15,Non-Sporting,,,,
+Maltese*,13.1,8,7,Toy,3,5,3,5
+Mastiff*,9,28.8,175,Working,2,2,4,2
+Miniature Bull Terrier,12.2,12,23,Terrier,4,3,4,3
+Miniature Dachshund*,14,5.5,11,Hound,3,5,3,5
+Miniature Pinscher,13.7,11.3,9,Toy,4,5,3,5
+Miniature Schnauzer,13.3,13,15.5,Terrier,3,5,3,4
+Neapolitan Mastiff,9.3,27.5,130,Working,2,2,4,2
+Newfoundland,11,27,125,Working,3,3,3,2
+Norfolk Terrier,13.5,9.5,11.5,Terrier,4,4,3,4
+Norwegian Elkhound,13,20,51.5,Hound,4,4,3,3
+Norwich Terrier,14,10,12,Terrier,4,4,3,4
+Nova Scotia Duck Tolling Retriever,13.2,19,42.5,Sporting,5,3,3,2
+Old English Sheepdog*,12.1,80,21.5,Herding,4,4,3,1
+Papillon,14.5,9.5,7.5,Toy,4,5,4,4
+Parson Russell Terrier,13.8,13.5,15,Terrier,,,,
+Pekingese*,13.3,7.5,14,Toy,2,3,3,5
+Pembroke Welsh Corgi*,13.2,11,29,Herding,4,5,4,4
+Petit Basset Griffon Vendeen,13.7,14,32.5,Hound,,,,
+Pharaoh Hound,10,23,50,Hound,3,3,3,2
+Polish Lowland Sheepdog,13.2,18.5,40,Herding,,,,
+Pomeranian,12.2,6.5,5,Toy,3,4,3,5
+Poodle*,14,15,55,Non-Sporting,4,3,4,4
+Portuguese Water Dog,13,20,47.5,Working,4,3,3,3
+Presa Canario,7.7,24,97,FSS,,,,
+Pug,11.6,11.5,16,Toy,2,3,3,5
+Puli,13.3,16.5,30,Herding,3,4,4,3
+Rhodesian Ridgeback,12,25.5,77.5,Hound,3,2,4,2
+Rottweiler,10.6,24.5,107.5,Working,4,3,5,2
+Saint Bernard,9.3,28,150,Working,3,3,3,2
+Saluki*,13.3,25.5,52.5,Hound,3,2,3,3
+Samoyed,13.1,21.25,50,Working,4,3,3,3
+Schipperke,14.2,11.5,13,Non-Sporting,4,5,4,3
+Scottish Deerhound,10.5,30,92.5,Hound,,,,
+Scottish Terrier,12.7,10,20,Terrier,,,,
+Sealyham Terrier,13.1,10.5,23.5,Terrier,,,,
+Shetland Sheepdog,13.4,14.5,20,Herding,4,5,3,3
+Shiba Inu,14.6,15,20,Non-Sporting,3,3,4,5
+Shih Tzu,12.8,9.75,12.5,Toy,3,4,3,5
+Siberian Husky,11.9,21.75,47.5,Working,4,4,4,2
+Silky Terrier,13.3,9.5,10,Toy,4,5,3,5
+Skye Terrier*,12.4,9.8,40,Terrier,,,,
+Soft Coated Wheaten Terrier,13.7,18,35,Terrier,,,,
+Spanish Water Dog,13.7,17.75,40,Herding,4,3,4,2
+Spinone Italiano,11.9,24.5,75,Sporting,,,,
+Staffordshire Bull Terrier,12,15,31,Terrier,3,3,4,2
+Standard Schnauzer,13,18.5,40,Working,4,5,4,3
+Sussex Spaniel,13.5,14,40,Sporting,,,,
+Swedish Vallhund,14,12.6,27.5,Herding,4,5,4,3
+Tibetan Mastiff*,13.3,25,110,Working,3,4,4,2
+Tibetan Spaniel,15.2,10,12,Non-Sporting,3,3,3,5
+Tibetan Terrier*,13.8,15.5,24,Non-Sporting,3,3,3,5
+Toy Fox Terrier,12.9,10,6.5,Toy,4,5,4,3
+Toy Manchester Terrier*,13,11,12,Toy,4,4,3,5
+Vizsla,13.5,22.5,52,Sporting,5,3,4,2
+Weimaraner,12.8,25,72.5,Sporting,5,3,3,1
+Welsh Springer Spaniel,14,18,45,Sporting,4,3,3,2
+Welsh Terrier*,13.8,15,20,Terrier,4,4,3,4
+West Highland White Terrier,13.4,10.5,17.5,Terrier,4,5,4,4
+Whippet,13.4,20,32.5,Hound,4,2,3,5
+Wire Fox Terrier,13.5,15.5,16.5,Terrier,4,5,4,3
+Yorkshire Terrier,13.3,7.5,7,Toy,4,5,3,5
